@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(50, 50, 50);
+}
+.container {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    border: 10px rgb(32,32,32);
+    border-style: groove;
+    background-color: rgb(75, 75, 75);
+}
+.calTip, .divide, .reset {
+    margin: 0px auto;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    display:inline;
+}
