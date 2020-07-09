@@ -4,7 +4,7 @@ This is a basic calculator that calculates tips and figures about how much each 
 # Contact Me!
  If you have any questions/suggestions or any problems with my work, feel free to contact me via email or message me on discord!
 
-  Discord: *HypnoticNoah#1111*
+  Discord: *Neoptunium#1111*
 
   Email: *hypnoticnoah@gmail.com*
 
